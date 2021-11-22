@@ -29,7 +29,7 @@ metode pengukuran statistik yang mengevaluasi keberadaan kata pada dokumen yang 
 
 ### Euclidean Distance
 perhitungan jarak dari 2 buah titik dalam Euclidean space.<br>
-<img alt="Rumus Euclidean" src="">
+<img alt="Rumus Euclidean" src="https://github.com/inQuacknito/HateSpeechClassificationSystem/blob/master/images/euclidean_distance.svg">
 
 ## Hasil dan Pembahasan
 
