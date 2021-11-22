@@ -46,3 +46,13 @@ Dari model yang dibuat didapatkan skor sebagai berikut:
 | Lukisan milik USER lumayan, menurut gw lebih bagus lagi kalo warnanya lebih bervariasi | Tweet bukan merupakan Ujaran kebencian dan tidak mengandung kata kasar |
 | Dasar cewek matre kapok gue jalan sama lo | Tweet mengandung kata kasar |
 | Kenapa sih USER kurang bersyukur banget! Udah dikasih mobil malah minta pesawat jet, dasar manusia tidak bersyukur | Tweet merupakan Ujaran kebencian dan mengandung kata kasar|
+
+## Kesimpulan dan Saran
+Klasifikasi tweet pada twitter cukup membantu untuk mengidentifikasi tweet yang mengandung ujaran kebencian dan perkataan menyinggung.
+<br><br>
+Saran : Diperlukan pengolahan dengan metode lain dan tahap preprocessing yang lebih rinci lagi agar hasil lebih akurat.
+
+
+## Akses sistem
+sistem klasifikasi dapat diakses pada link berikut:<br>
+https://colab.research.google.com/drive/1JuCS5QDJx8m73kWHUXqtcVSExd4GJCBi?usp=sharing
