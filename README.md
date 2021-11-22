@@ -1,6 +1,9 @@
-# Welcome to GitHub
+# KLASIFIKASI TEKS TWITTER YANG MENGANDUNG PERKATAAN MENYINGGUNG DAN UJARAN KEBENCIAN MENGGUNAKAN ALGORITMA KNN
 
-Welcome to GitHub—where millions of developers work together on software. Ready to get started? Let’s learn how this all works by building and publishing your first GitHub Pages website!
+Oleh :
+- Muhammad Dwiki Ramdhani - G64180032
+- Mohammad Thareeq Izzulhaq - G64180041
+- Muhammad Rayhan Adyatma - G64180064
 
 ## Repositories
 
