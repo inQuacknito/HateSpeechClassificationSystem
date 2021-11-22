@@ -28,7 +28,7 @@ metode yang menggunakan algoritma supervised learning dimana hasil dari data yan
 metode pengukuran statistik yang mengevaluasi keberadaan kata pada dokumen yang terkumpul di antara kumpulan dokumen lainnya.
 
 ### Euclidean Distance
-perhitungan jarak dari 2 buah titik dalam Euclidean space.
+perhitungan jarak dari 2 buah titik dalam Euclidean space.<br>
 <img alt="Rumus Euclidean" src="">
 
 ## Hasil dan Pembahasan
