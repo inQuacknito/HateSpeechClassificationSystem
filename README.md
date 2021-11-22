@@ -34,9 +34,9 @@ perhitungan jarak dari 2 buah titik dalam Euclidean space.<br>
 ## Hasil dan Pembahasan
 
 Dari model yang dibuat didapatkan skor sebagai berikut:
-- Akurasi: 
-- F1: 
-- Recall: 
+- Precision: 84% 
+- F1: 80%
+- Recall: 76% 
 
 ## Pengujian Sistem
 
